@@ -21,6 +21,7 @@
       <property name="trimStrings" value="true" />
     </javaModelGenerator>
 
+
     <sqlMapGenerator targetPackage="com.hu.spider.led.mapper"  targetProject=".\src\main\java">
       <property name="enableSubPackages" value="true" />
     </sqlMapGenerator>
